@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Puebas en <GitGridItem /> debe mostrar el componente correctamente 1`] = `
+<div
+  className="card"
+>
+  <h3>
+    Titulo
+  </h3>
+  <img
+    alt="Titulo"
+    src="https://localhost/algo.jpg"
+  />
+</div>
+`;

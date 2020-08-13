@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`debe mostrar el componente correctamente 1`] = `
+<Fragment>
+  <h3>
+     
+    Transformers
+     
+  </h3>
+  <p>
+    Cargando...
+  </p>
+  <div
+    className="card-grid animate__animated animate__fadeIn"
+  >
+    ;
+  </div>
+</Fragment>
+`;
+
+exports[`debe mostrar los items cuando se cargan las imagenes de useFetchGifs 1`] = `
+<Fragment>
+  <h3>
+     
+    Transformers
+     
+  </h3>
+  <div
+    className="card-grid animate__animated animate__fadeIn"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="Cualquiera"
+      url="https://localhost/asda.jpg"
+    />
+    ;
+  </div>
+</Fragment>
+`;
